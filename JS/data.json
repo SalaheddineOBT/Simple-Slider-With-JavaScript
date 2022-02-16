@@ -1,0 +1,46 @@
+{
+    "users":[
+        {
+            "name":"Tanya Sinclair",
+            "domaine":"UI/UX Enginner",
+            "photo":"./Images/1.jpg",
+            "description":"Junior Software Developers are entry-level software developers that assist the development team with all aspects of software design and coding. Their primary role is to learn ."
+        },
+        {
+            "name":"Albert Damno",
+            "domaine":"UI/UX Designer",
+            "photo":"./Images/2.jpg",
+            "description":"We are looking for an enthusiastic junior software developer to join our experienced software design team. You will report directly to the development manager and assist with coding ."
+        },
+        {
+            "name":"Diana Mahyor",
+            "domaine":"PHP Junior Developer",
+            "photo":"./Images/3.jpg",
+            "description":"Application Developer Job Description, Learn about the key requirements, duties, responsibilities, and skills that should be in an application developer job description."
+        },
+        {
+            "name":"Eliana Masinxi",
+            "domaine":"Java Senior Developer",
+            "photo":"./Images/4.jpg",
+            "description":"To be successful as an application developer, you should have a sound knowledge of software engineering as well as excellent analytical skills."
+        },
+        {
+            "name":"Mamado Alian",
+            "domaine":"UI/UX Designer",
+            "photo":"./Images/5.jpg",
+            "description":"Application developers are responsible for creating and modifying source code for computer software applications. Application developers are also known as software developers and software architects."
+        },
+        {
+            "name":"Diana Mahyor",
+            "domaine":"PHP Junior Developer",
+            "photo":"./Images/6.jpg",
+            "description":"When interviewing application developers, look for candidates who demonstrate a sound working knowledge of computer programming languages, as well as programming skills. Take note of candidates."
+        },
+        {
+            "name":"Eliana Masinxi",
+            "domaine":"Java Senior Developer",
+            "photo":"./Images/7.jpg",
+            "description":"Look for candidates who demonstrate creative thinking as well as problem-solving skills. Take note of candidates who demonstrate a lack of programming knowledge and technical skills."
+        }
+    ]
+}
